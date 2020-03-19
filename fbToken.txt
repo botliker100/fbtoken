@@ -1,0 +1,21 @@
+
+*************************************************************
+Current device info:
+
+osVer:Android 6.0+(27)
+appVer:3.6.2(78)
+phoneModel:Redmi 5 Plus(vince)
+language:in-ID
+screen w*h:[2030*1080]
+curCpuName:arm64-v8a
+command:arm64-v8a
+maxCpu:2.0GHZ(8 cores) --- minCpu:652MHZ --- curCpu:2.0GHZ
+RamAllMem:2.76GB --- RamAvaiMem:646.5MB --- AppMaxRam:512.0MB
+RomType:Internal Storage --- RomTotalSize:23.43GB --- RomFreeSize:16.89GB
+phoneNet=opName:Smartfren
+netWork type:unknow
+phone type:GSM
+
+
+*************************************************************
+2020-03-08 12:30:29:536   [@60f08cd]d_bChQmIuZA:APA91bH2vjNJ0JV4HE8QYuezhSMPSSgXJ187T1S0yaM4EKmk2a1UBB1Epo7LRWU9CObO5F-n-YjMa0m6ZDnP3_1m8K8LnlaIE7b5_dzsSmEJtYY8DPjumCw9L25gMMsazgmak-lUBjxm
